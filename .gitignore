@@ -1,0 +1,5 @@
+/env
+*.pyc
+ngrok
+secrets.sh
+.DS_Store
