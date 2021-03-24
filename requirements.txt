@@ -43,7 +43,7 @@ Pygments==2.2.0
 python-dateutil==2.6.0
 PyYAML==3.12
 pyzmq==16.0.2
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.10
 scandir==1.5
 simplegeneric==0.8.1
